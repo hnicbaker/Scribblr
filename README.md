@@ -1,5 +1,7 @@
 # Scribblr
 
+![Scribblr](https://imgur.com/ywXCNzQ.png)
+
 ## The App
 [Click here for the launched App](https://scribblerr.herokuapp.com/)
 
@@ -46,18 +48,5 @@ npm run db:seed
 ```
 npm run dev
 ```
-## Documentation
-[ERD](https://git.generalassemb.ly/csheppard24/cash-project-3/blob/master/assets/Image%20from%20iOS.jpg)<br />
-[Component Hierarchy](https://res.cloudinary.com/chucksheppard/image/upload/v1549251147/Project%203%20Component%20Hierarchy/Project%203%20Component%20Hierarchy.jpg)<br />
-[Trello Board](https://trello.com/b/84kZjA6Y/team-cash)<br />
-[Wireframe 1](https://git.generalassemb.ly/csheppard24/cash-project-3/blob/master/Final-wireframes/Screen%20Shot%202019-02-04%20at%2010.06.45%20AM.png)<br />
-[Wireframe 2](https://git.generalassemb.ly/csheppard24/cash-project-3/blob/master/Final-wireframes/Screen%20Shot%202019-02-04%20at%2010.07.22%20AM.png)<br />
-[Wireframe 3](https://git.generalassemb.ly/csheppard24/cash-project-3/blob/master/Final-wireframes/Screen%20Shot%202019-02-04%20at%2010.09.17%20AM.png)<br />
-[Wireframe 4](https://git.generalassemb.ly/csheppard24/cash-project-3/blob/master/Final-wireframes/Screen%20Shot%202019-02-04%20at%2010.11.09%20AM.png)<br />
-[Wireframe 5](https://git.generalassemb.ly/csheppard24/cash-project-3/blob/master/Final-wireframes/Screen%20Shot%202019-02-04%20at%2010.14.34%20AM.png)<br />
-[Wireframe 6](https://git.generalassemb.ly/csheppard24/cash-project-3/blob/master/Final-wireframes/Screen%20Shot%202019-02-04%20at%2010.15.51%20AM.png)<br />
-[Wireframe 7](https://git.generalassemb.ly/csheppard24/cash-project-3/blob/master/Final-wireframes/Screen%20Shot%202019-02-04%20at%2010.17.05%20AM.png)<br />
-[Wireframe 8](https://git.generalassemb.ly/csheppard24/cash-project-3/blob/master/Final-wireframes/Screen%20Shot%202019-02-04%20at%2010.17.16%20AM.png)
-
 
 
